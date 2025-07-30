@@ -20,7 +20,7 @@ poetry add pytest-django
 
 ```
 
-### Step 2: Install Configuration
+### Step 2:  Configuration
 
 Create a `pytest.ini` file in your project root:
 

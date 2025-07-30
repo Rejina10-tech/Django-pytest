@@ -17,9 +17,10 @@ Install `pytest-django` using poetry:
 
 ```bash
 poetry add pytest-django
----
 
-### Step 2: Configuration
+```
+
+### Step 2: Install Dependencies
 
 Create a `pytest.ini` file in your project root:
 
@@ -83,3 +84,9 @@ apps/api_auth/tests/views/test_password.py::test_password_reset_confirm_success 
 
 
 ---
+
+## 7. Run pytest
+```
+pytest
+```
+
